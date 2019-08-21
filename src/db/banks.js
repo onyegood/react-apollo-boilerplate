@@ -1,0 +1,22 @@
+export const banks = [
+    "DIAMOND BANK",
+    "GTBANK",
+    "FIRST BANK",
+    "SKYE BANK",
+    "UBA",
+    "UNITY BANK",
+    "ZENITH BANK",
+    "ACCESS BANK",
+    "STERLING BANK",
+    "GTBank Mobile Money",
+    "ECO BANK",
+    "STANBIC IBTC BANK",
+    "JAIZ BANK",
+    "FIRST CITY MONUMENT BANK",
+    "KEYSTONE BANK",
+    "UNION BANK",
+    "WEMA BANK",
+    "FIDELITY BANK",
+    "HERITAGE BANK",
+    "MAINSTREET BANK"
+  ]

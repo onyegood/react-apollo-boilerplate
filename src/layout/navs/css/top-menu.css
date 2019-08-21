@@ -1,0 +1,58 @@
+#top-menu-wrapper {
+  top: 0px;
+  transition: top 400ms ease 0s, opacity 200ms ease 0s;
+  background-color: #fff;
+  top: 0;
+  left: 200px;
+  right: 0;
+}
+
+.top-menu {
+  padding: 10px 10px 10px 10px;
+  border-bottom: 1px solid #f1f1f1;
+  box-shadow: 1px 2px 4px 0 rgba(0, 0, 0, 0.03);
+}
+
+.navbar {
+  height: 60px;
+}
+
+.toggle-icon {
+  font-size: 60px;
+  color: #031b4d;
+}
+
+.nav-link img {
+  height: 30px;
+  border-radius: 50%;
+}
+.icon-small {
+  font-size: 20px;
+}
+
+.btn-tour {
+  color: #fff;
+  background: #031b4d -webkit-gradient(
+      linear,
+      left top,
+      left bottom,
+      from(#031b4d),
+      to(#031b4d)
+    ) repeat-x;
+  background: #031b4d linear-gradient(180deg, #031b4d, #031b4d) repeat-x;
+  border-color: #ffffff;
+}
+
+.btn-tour:hover,
+.btn-tour:focus {
+  color: #031b4d;
+  background: #fff -webkit-gradient(
+      linear,
+      left top,
+      left bottom,
+      from(#fff),
+      to(#fff)
+    ) repeat-x;
+  background: #fff linear-gradient(180deg, #fff, #fff) repeat-x;
+  border-color: #031b4d;
+}

@@ -1,0 +1,25 @@
+.card-style {
+  width: 100%;
+  height: 100%;
+  font-size: 1em;
+  position: relative;
+  font-weight: 400;
+  background: #ffffff;
+  border-radius: 5px;
+  bottom: 0;
+  transition: 300ms ease-in;
+  transition-property: bottom, box-shadow;
+}
+.card-style a {
+  color: #666;
+}
+
+.card-style a:hover {
+  text-decoration: none;
+}
+.card-style:hover {
+  /* border: 1px solid #dfe1e5; */
+  border-radius: 5px;
+  border-color: rgba(223, 225, 229, 0);
+  box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.28);
+}
