@@ -16,7 +16,7 @@
     "apollo-link-http": "^1.5.15",
     "axios": "^0.19.0",
     "chart": "^0.1.2",
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "cloudinary-react": "^1.1.4",
     "express": "^4.17.1",
     "formik": "^1.5.8",
